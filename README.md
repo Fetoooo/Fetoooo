@@ -1,17 +1,22 @@
-# About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Fathy%20Ayman&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
-Hello, my name is **Fathy**, and I am a **Computer Science student at Assiut University** who loves learning, building, and improving every day. I am passionate about **software development, backend engineering, and building practical systems**. I enjoy turning ideas into real applications and continuously improving my skills through **projects, problem solving, and teaching others**.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Fathy+Ayman;Full-Stack+.NET+Developer;AI+Automation+Specialist;Backend+Engineer;Building+Scalable+Web+Applications"/>
+</h1>
 
----
+<h3 align="center">
+Full-Stack .NET Developer • AI Automation Specialist • Backend Engineer
+</h3>
 
-## Current Focus
-- **Clean Architecture, OOP, Design Patterns, and SOLID principles**
-- **Backend Development with .NET (ASP.NET Core & Web APIs)**
-- **Full-Stack Development** with Angular
-- **Database Design & SQL Server**
-- **Problem Solving & Algorithms**
+<p align="center">
+Cairo, Egypt • Open to Collaboration • Always Learning
+</p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=FathyGendy&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+</p>
 
 ## Contact
 Feel free to reach out or collaborate!
@@ -44,9 +49,16 @@ Feel free to reach out or collaborate!
 > **Arabic** (Native) • **English** (Fluent) • **German** (A1)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FathyGendy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FathyGendy&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FathyGendy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fetoooo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fetoooo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fetoooo&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
