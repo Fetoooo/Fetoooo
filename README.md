@@ -15,7 +15,7 @@ Cairo, Egypt • Open to Collaboration • Always Learning
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=FathyGendy&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Fetoooo&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 </p>
 
 ## Contact
@@ -46,27 +46,35 @@ Feel free to reach out or collaborate!
 > **OOP** • **Data Structures** • **Algorithms** • **AI & Machine Learning** • **Problem Solving** • **Active Listening** • **Research** • **Time Management** • **Leadership** • **Critical Thinking**
 
 ### Languages
-> **Arabic** (Native) • **English** (Fluent) • **German** (A1)
+> **Arabic** (Native) • **English** (Fluent)
 
-# GitHub Stats:
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fetoooo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fetoooo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fetoooo&theme=tokyo-night&hide_border=true"/>
 </p>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FathyGendy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FathyGendy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">💭 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <b>Always believing</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=120&section=footer"/>
+</p>
