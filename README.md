@@ -45,11 +45,23 @@ Feel free to reach out or collaborate!
 ### Languages
 > **Arabic** (Native) • **English** (Fluent)
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Contribution Snake</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fetoooo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fetoooo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.jsdelivr.net/gh/Fetoooo/Fetoooo@gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.jsdelivr.net/gh/Fetoooo/Fetoooo@gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/Fetoooo/Fetoooo@gh-pages/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 <h2 align="center">GitHub Activity</h2>
